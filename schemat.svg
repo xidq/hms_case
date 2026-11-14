@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="201.22746mm"
+   viewBox="0 0 200 201.22746"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="schemat.svg"
+   inkscape:export-filename="schemat.png"
+   inkscape:export-xdpi="258.50946"
+   inkscape:export-ydpi="258.50946"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5643378"
+     inkscape:cx="347.11173"
+     inkscape:cy="239.71805"
+     inkscape:window-width="2560"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g22028" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304948"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.902005,-4.5549975)">
+    <rect
+       style="fill:#ffffff;stroke:#f5b763;stroke-width:0.499999;fill-opacity:1"
+       id="rect572"
+       width="200"
+       height="201.22746"
+       x="19.902004"
+       y="4.5549974"
+       ry="2.7720807"
+       inkscape:label="bg" />
+    <g
+       id="g22028"
+       inkscape:label="strzalki_zwykle"
+       style="display:inline">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="M 63.289823,11.863158 H 94.995369"
+         id="path21227"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#37dd22;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 109.84759,19.900565 -1e-5,3.445154"
+         id="path21653"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="ing-go" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="113.43872"
+         y="22.809752"
+         id="text21707"><tspan
+           sodipodi:role="line"
+           id="tspan21705"
+           style="stroke-width:0.5"
+           x="113.43872"
+           y="22.809752">TLS</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#e21111;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 56.958967,63.064636 23.045595,-20.8508"
+         id="path21709"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="go-main" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#e21111;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 88.170955,61.131255 6.35487,-7.764638"
+         id="path21711"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="go-acc" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#e21111;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="M 132.26437,61.133737 126.0173,53.439935"
+         id="path21713"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="go-lab" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#e21111;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="M 160.10334,62.208736 139.52486,39.728184"
+         id="path21715"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="go-pharm" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 105.98657,96.245918 7.57048,11.820902"
+         id="path21717"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 133.39638,96.776784 0.009,9.963816"
+         id="path21719"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 160.21684,95.338019 -9.53805,12.450641"
+         id="path21721"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 38.098261,97.417207 -2e-6,17.978593"
+         id="path21723"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 38.098259,127.69133 1e-6,14.43865"
+         id="path21727"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 107.63467,186.46378 5.29252,-5.61247"
+         id="path21729"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="M 111.95964,123.85233 57.057204,95.837928"
+         id="path21739"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+         d="m 38.098261,177.94369 -10e-7,18.43844"
+         id="path21781"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+         d="M 38.09826,196.38213 H 90.284002"
+         id="path21785"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="9.3189659"
+         y="105.63271"
+         id="text22068"
+         transform="rotate(-50.481134)"><tspan
+           sodipodi:role="line"
+           id="tspan22066"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="9.3189659"
+           y="105.63271">UDS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="122.26883"
+         y="-63.780224"
+         id="text22068-3"
+         transform="rotate(50.217932)"><tspan
+           sodipodi:role="line"
+           id="tspan22066-6"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="122.26883"
+           y="-63.780224">UDS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="132.11966"
+         y="-80.533981"
+         id="text22068-3-7"
+         transform="rotate(49.163522)"
+         inkscape:label="text22068-3-7"><tspan
+           sodipodi:role="line"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="132.11966"
+           y="-80.533981"
+           id="tspan592">UDS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="12.580691"
+         y="84.173965"
+         id="text22068-3-7-3"
+         transform="rotate(-42.366055)"><tspan
+           id="tspan22066-6-5-5"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="12.580691"
+           y="84.173965"
+           sodipodi:role="line">UDS</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#5bd4e3;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 83.631981,143.5747 4e-6,12.07225"
+         id="path24412"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="av-s3" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#5bd4e3;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="M 48.713999,97.158967 66.698773,123.36471"
+         id="path24418"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="main-s3" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#5bd4e3;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 58.2591,145.30248 7.644047,-3.45557"
+         id="path24420"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="workmq-s3" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#5bd4e3;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 113.16798,148.91845 -11.37404,-7.59108"
+         id="path24422"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="workc-s3" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#5bd4e3;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 109.04459,53.51258 -6.23451,77.66158"
+         id="path24424"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:label="go-s3" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 132.28249,142.45912 v 4.57933"
+         id="path25617"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="workc-db" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 58.61423,164.33211 5.988905,0.61673"
+         id="path25666"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="workmq-av" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 102.66553,165.95112 9.10227,-0.14239"
+         id="path25668"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="workc-av" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="M 58.643414,151.62334 114.07251,140.96637"
+         id="path26438"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:label="workqm-db" />
+    </g>
+    <g
+       id="g24366"
+       inkscape:label="s3"
+       transform="translate(-103.97834,99.893637)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect23606"
+         width="33.050049"
+         height="16.154175"
+         x="171.0853"
+         y="25.029562"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="173.98683"
+         y="30.433861"
+         id="text23604"><tspan
+           sodipodi:role="line"
+           id="tspan23602"
+           style="font-size:3.52778px;stroke-width:0.1"
+           x="173.98683"
+           y="30.433861">S3/Local Storage</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="177.37155"
+         y="35.053947"
+         id="text23610"><tspan
+           sodipodi:role="line"
+           id="tspan23608"
+           style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="177.37155"
+           y="35.053947">- files and reports</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="177.37155"
+           y="37.258808"
+           id="tspan24350">- email attachments</tspan></text>
+    </g>
+    <g
+       id="g18756"
+       inkscape:label="webapp"
+       transform="translate(0.2975287,0.60259699)">
+      <rect
+         style="fill:#eeef22;fill-opacity:1;stroke:#cecd37;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10947"
+         width="19.130407"
+         height="10.350877"
+         x="40.503788"
+         y="6.0851221"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="43.163383"
+         y="12.177781"
+         id="text10791"><tspan
+           sodipodi:role="line"
+           id="tspan10789"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+           x="43.163383"
+           y="12.177781">WebApp</tspan></text>
+    </g>
+    <g
+       id="g1535"
+       inkscape:label="ingress"
+       transform="translate(23.726018,1.7078793)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         id="rect111"
+         width="22.527731"
+         height="8.8811007"
+         x="74.800064"
+         y="5.7147279"
+         ry="1.8802221" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         x="79.979706"
+         y="11.345817"
+         id="text845"><tspan
+           sodipodi:role="line"
+           id="tspan843"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="79.979706"
+           y="11.345817">Ingress</tspan></text>
+    </g>
+    <g
+       id="g8206"
+       inkscape:label="gateway"
+       transform="translate(12.302611,3.1888005)">
+      <rect
+         style="fill:#80e2ff;fill-opacity:1;stroke:#4fa7b6;stroke-width:0.4177;stroke-opacity:1"
+         id="rect1537"
+         width="55.560429"
+         height="24.448683"
+         x="69.764763"
+         y="23.684725"
+         ry="2.7720809" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         x="90.291878"
+         y="29.017521"
+         id="text1541"><tspan
+           sodipodi:role="line"
+           id="tspan1539"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="90.291878"
+           y="29.017521">Gateway</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="72.758797"
+         y="33.651085"
+         id="text2376"><tspan
+           sodipodi:role="line"
+           id="tspan2374"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="72.758797"
+           y="33.651085">- Rate limiting &amp; IP filtering</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="72.758797"
+           y="35.855946"
+           id="tspan3830">- Session management &amp; JWT refresh/validation</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="72.758797"
+           y="38.06081"
+           id="tspan4558">- In-memory caching for frequent read-only data</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="72.758797"
+           y="40.265671"
+           id="tspan7468">(no need for Redis, Golang can handle everything)</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="72.758797"
+           y="42.470535"
+           id="tspan5286">- RBAC pre-flight checks (doctors, pharmacists, accountants)</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="72.758797"
+           y="44.675396"
+           id="tspan7466">- Input sanitization &amp; static file serving (HTML, CSS, JS)</tspan></text>
+    </g>
+    <g
+       id="g8247"
+       inkscape:label="main_backend">
+      <rect
+         style="fill:#ffb472;fill-opacity:1;stroke:#ffa70e;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         id="rect8234"
+         width="36.12751"
+         height="30.842506"
+         x="20.034506"
+         y="64.126083"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="26.389559"
+         y="71.039032"
+         id="text8212"><tspan
+           sodipodi:role="line"
+           id="tspan8210"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="26.389559"
+           y="71.039032">Main Backend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="24.498671"
+         y="76.125343"
+         id="text8216"><tspan
+           sodipodi:role="line"
+           id="tspan8214"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="24.498671"
+           y="76.125343">- Main business logic execution</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="24.498671"
+           y="78.330208"
+           id="tspan8224">- Fast requests</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="24.498671"
+           y="80.535065"
+           id="tspan8226">- Lazy db connection</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="24.498671"
+           y="82.739929"
+           id="tspan8230">- Sharding/resharding integrated</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="24.498671"
+           y="84.944794"
+           id="tspan8218">- Hash-based shard resolver</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="24.498671"
+           y="87.149658"
+           id="tspan8220">- Domain router</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="24.498671"
+           y="89.354515"
+           id="tspan8222">- RabbitMQ</tspan></text>
+    </g>
+    <g
+       id="g10451"
+       inkscape:label="acc_backend">
+      <rect
+         style="fill:#ffb472;fill-opacity:1;stroke:#ffa70e;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10441"
+         width="40.648205"
+         height="31.107506"
+         x="65.797462"
+         y="63.197136"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="69.384018"
+         y="70.633339"
+         id="text8251"><tspan
+           sodipodi:role="line"
+           id="tspan8249"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+           x="69.384018"
+           y="70.633339">Accounting Backend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="72.544907"
+         y="76.08477"
+         id="text8255"><tspan
+           sodipodi:role="line"
+           id="tspan8253"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="76.08477">- Main accounting actions</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="78.289635"
+           id="tspan8983">- Fast Requests</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="80.494492"
+           id="tspan9711">- Prepared responsive shut down</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="82.699356"
+           id="tspan10439">- Crone</tspan></text>
+    </g>
+    <g
+       id="g10469"
+       inkscape:label="lab_backend"
+       transform="translate(47.892091)">
+      <rect
+         style="fill:#ffb472;fill-opacity:1;stroke:#ffa70e;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10467"
+         width="40.648205"
+         height="31.107506"
+         x="65.797462"
+         y="63.197136"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="69.384018"
+         y="70.633339"
+         id="text10455"><tspan
+           sodipodi:role="line"
+           id="tspan10453"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+           x="69.384018"
+           y="70.633339">Labolatory Backend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="72.544907"
+         y="76.08477"
+         id="text10465"><tspan
+           sodipodi:role="line"
+           id="tspan10457"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="76.08477">- Main labolatory actions</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="78.289635"
+           id="tspan10459">- Fast Requests</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="80.494492"
+           id="tspan10461">- Prepared responsive shut down</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="82.699356"
+           id="tspan10463">- Crone</tspan></text>
+    </g>
+    <g
+       id="g10487"
+       inkscape:label="pharma_backend"
+       transform="translate(95.142137)">
+      <rect
+         style="font-size:3.52778px;fill:#ffb472;fill-opacity:1;stroke:#ffa70e;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10485"
+         width="40.648205"
+         height="31.107506"
+         x="65.797462"
+         y="63.197136"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="69.384018"
+         y="70.633339"
+         id="text10473"><tspan
+           sodipodi:role="line"
+           id="tspan10471"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+           x="69.384018"
+           y="70.633339">Pharmacy Backend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="72.544907"
+         y="76.08477"
+         id="text10483"><tspan
+           sodipodi:role="line"
+           id="tspan10475"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="76.08477">- Main pharmacy actions</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="78.289635"
+           id="tspan10477">- Fast Requests</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="80.494492"
+           id="tspan10479">- Prepared responsive shut down</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="72.544907"
+           y="82.699356"
+           id="tspan10481">- Crone</tspan></text>
+    </g>
+    <g
+       id="g10487-3"
+       inkscape:label="redis"
+       transform="translate(100.07723,-38.240538)"
+       style="display:inline">
+      <rect
+         style="fill:#ea7d7d;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-opacity:1"
+         id="rect1278"
+         width="25.784857"
+         height="14.912322"
+         x="71.834831"
+         y="69.172218"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="display:inline;font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="78.274658"
+         y="79.189217"
+         id="text10483-3"
+         transform="translate(-6.4583334e-7)"><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.265"
+           x="78.274658"
+           y="79.189217"
+           id="tspan10481-9">Session Storage</tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-size:3.52778px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="80.54866"
+         y="76.095383"
+         id="text10473-7"
+         inkscape:label="text10473-7"
+         transform="translate(-6.4583334e-7)"><tspan
+           sodipodi:role="line"
+           id="tspan10471-5"
+           style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+           x="80.54866"
+           y="76.095383">Redis</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#RoundedArrow)"
+         d="m 40.083245,70.906612 29.425382,5.494402"
+         id="path5182"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g10515"
+       inkscape:label="workers_crone"
+       transform="translate(94.18423,85.401508)">
+      <rect
+         style="fill:#ffb472;fill-opacity:1;stroke:#ffa70e;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10513"
+         width="36.12751"
+         height="30.842506"
+         x="20.034506"
+         y="64.126083"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="24.810879"
+         y="70.792084"
+         id="text10495"><tspan
+           sodipodi:role="line"
+           id="tspan10493"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="24.810879"
+           y="70.792084">Workers - Crone</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="28.15169"
+         y="76.595932"
+         id="text10511"><tspan
+           sodipodi:role="line"
+           id="tspan10497"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="76.595932">- Heavy/scheluded work</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="78.800797"
+           id="tspan10499">- Sync/Async</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="81.005653"
+           id="tspan10509">- Lazy db connection</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="83.210518"
+           id="tspan10526">- Backup</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="85.415382"
+           id="tspan10528">- Database Update</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="87.620247"
+           id="tspan10530">- Organising</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="89.825104"
+           id="tspan10623">- Long duration tasks</tspan></text>
+    </g>
+    <g
+       id="g10552"
+       inkscape:label="workers_rabbitmq"
+       transform="translate(-5.8084022e-7,80.513753)">
+      <rect
+         style="fill:#ffb472;fill-opacity:1;stroke:#ffa70e;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10550"
+         width="36.12751"
+         height="30.842506"
+         x="20.034506"
+         y="64.126083"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="21.463015"
+         y="70.509865"
+         id="text10534"><tspan
+           sodipodi:role="line"
+           id="tspan10532"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="21.463015"
+           y="70.509865">Workers - RabbitMQ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="28.15169"
+         y="76.473755"
+         id="text10548"><tspan
+           sodipodi:role="line"
+           id="tspan10536"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="76.473755">- Heavy/scheluded work</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="78.678619"
+           id="tspan10538">- Sync/Async</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="80.883476"
+           id="tspan10540">- Lazy db connection</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="83.088341"
+           id="tspan10542">- Backup</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="85.293205"
+           id="tspan10544">- Database Update</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="28.15169"
+           y="87.49807"
+           id="tspan10546">- Organising</tspan></text>
+    </g>
+    <g
+       id="g10645"
+       inkscape:label="db"
+       transform="translate(94.18423,45.061455)">
+      <rect
+         style="fill:#3a3dff;fill-opacity:0.406943;stroke:#4969cd;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10643"
+         width="36.12751"
+         height="30.842506"
+         x="20.034506"
+         y="64.126083"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="28.784742"
+         y="71.07431"
+         id="text10627"><tspan
+           sodipodi:role="line"
+           id="tspan10625"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="28.784742"
+           y="71.07431">Databases</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="32.957405"
+         y="75.553886"
+         id="text10641"><tspan
+           sodipodi:role="line"
+           id="tspan10629"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="75.553886">- Accounting</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="77.758751"
+           id="tspan10631">- Drugs</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="79.963608"
+           id="tspan10633">- Users</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="82.168472"
+           id="tspan10635">- Events</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="84.373337"
+           id="tspan10637">- Email</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="86.578201"
+           id="tspan10639">- Tickets</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="88.783058"
+           id="tspan10660">- patients shards</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.264583"
+           x="32.957405"
+           y="90.987923"
+           id="tspan10647">and more</tspan></text>
+    </g>
+    <g
+       id="g10658"
+       inkscape:label="rabbitmq"
+       transform="translate(-13.530074,19.608703)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10653"
+         width="22.172262"
+         height="7.5066028"
+         x="40.542202"
+         y="98.162468"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="43.173435"
+         y="102.88569"
+         id="text10651"><tspan
+           sodipodi:role="line"
+           id="tspan10649"
+           style="stroke-width:0.265"
+           x="43.173435"
+           y="102.88569">RabbitMQ</tspan></text>
+    </g>
+    <g
+       id="g20442"
+       inkscape:label="observability"
+       transform="translate(3.4148763,2.6579215)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect20120"
+         width="29.562759"
+         height="26.682529"
+         x="19.902004"
+         y="23.09868"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="21.967688"
+         y="29.652218"
+         id="text19384"><tspan
+           sodipodi:role="line"
+           id="tspan19382"
+           style="stroke-width:0.265"
+           x="21.967688"
+           y="29.652218">Observability</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="22.934763"
+         y="35.897118"
+         id="text19388"><tspan
+           sodipodi:role="line"
+           id="tspan19386"
+           style="stroke-width:0.265"
+           x="22.934763"
+           y="35.897118">- Grafana</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.265"
+           x="22.934763"
+           y="40.306831"
+           id="tspan19390">- Tempo</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.265"
+           x="22.934763"
+           y="44.716541"
+           id="tspan19392">- Prometheus</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="164.86835"
+       y="102.70714"
+       id="text20446"><tspan
+         sodipodi:role="line"
+         id="tspan20444"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="102.70714">Targets:</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="107.11685"
+         id="tspan20448">- Minimum interaction</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="111.52657"
+         id="tspan24402">   after deployment</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="115.93628"
+         id="tspan20450">- Maximum stability </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="120.34599"
+         id="tspan24404">   &amp; predictability</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="124.75571"
+         id="tspan21178">- Blue &amp; Green Deployment</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="129.16542"
+         id="tspan22856">- Internal server on-site</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="133.57512"
+         id="tspan22858">- Auto healing</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="137.98483"
+         id="tspan21180">- Security &amp; Audit</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="142.39455"
+         id="tspan22850">- Zero GC backend</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="146.80426"
+         id="tspan22852">- Fast BOOT-UP</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="164.86835"
+         y="151.21397"
+         id="tspan22854">- Light weight</tspan></text>
+    <g
+       id="g21758"
+       inkscape:label="engress"
+       transform="translate(24.755094,-60.358244)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect21753"
+         width="25.185614"
+         height="17.110447"
+         x="68.054344"
+         y="248.78026"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="74.022003"
+         y="254.1189"
+         id="text21743"><tspan
+           sodipodi:role="line"
+           id="tspan21741"
+           style="stroke-width:0.5"
+           x="74.022003"
+           y="254.1189">Engress</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="70.561623"
+         y="258.08093"
+         id="text21747"><tspan
+           sodipodi:role="line"
+           id="tspan21745"
+           style="font-size:1.76389px;stroke-width:0.5"
+           x="70.561623"
+           y="258.08093">- External api</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.5"
+           x="70.561623"
+           y="260.2858"
+           id="tspan21749">- sync patient/drug data</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;stroke-width:0.5"
+           x="70.561623"
+           y="262.49066"
+           id="tspan21751">- email/alert</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="168.08276"
+       y="184.29791"
+       id="text22214"
+       inkscape:label="kolory"><tspan
+         sodipodi:role="line"
+         style="fill:#c87137;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="168.08276"
+         y="184.29791"
+         id="tspan22732">RUST</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#00ffff;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="168.08276"
+         y="188.70763"
+         id="tspan22734">GOLANG</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000080;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="168.08276"
+         y="193.11734"
+         id="tspan22736">POSTGRESQL</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#fbfb00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="168.08276"
+         y="197.52705"
+         id="tspan22738">JS &amp; HTML &amp; CSS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;fill:#fbfb00;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       x="172.90921"
+       y="17.716583"
+       id="text22862"><tspan
+         sodipodi:role="line"
+         id="tspan22860"
+         style="font-size:5.29167px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1"
+         x="172.90921"
+         y="17.716583">K8s on-prem</tspan></text>
+    <g
+       id="g24396"
+       inkscape:label="ClamAv"
+       transform="translate(-103.97834,133.17795)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         id="rect24388"
+         width="33.050049"
+         height="16.154175"
+         x="171.0853"
+         y="25.029562"
+         ry="2.7720807" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="181.2709"
+         y="31.118877"
+         id="text24386"><tspan
+           sodipodi:role="line"
+           id="tspan24384"
+           style="font-size:3.52778px;stroke-width:0.1"
+           x="181.2709"
+           y="31.118877">ClamAv</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:1.76389px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="179.39764"
+         y="34.787991"
+         id="text24394"><tspan
+           sodipodi:role="line"
+           id="tspan24390"
+           style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="179.39764"
+           y="34.787991">- scanning files</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:1.76389px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+           x="179.39764"
+           y="36.992851"
+           id="tspan24392">- email attachments</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;fill:#ea7d7d;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       x="169.60228"
+       y="163.40797"
+       id="text5374"><tspan
+         sodipodi:role="line"
+         id="tspan5372"
+         style="fill:#ff1c1c;fill-opacity:1;stroke-width:0.5"
+         x="169.60228"
+         y="163.40797">|gRPC</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#24ff27;fill-opacity:1;stroke-width:0.5"
+         x="169.60228"
+         y="167.81769"
+         id="tspan5376">|REST</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#14c8ff;fill-opacity:1;stroke-width:0.5"
+         x="169.60228"
+         y="172.2274"
+         id="tspan5378">|S3</tspan></text>
+  </g>
+</svg>
