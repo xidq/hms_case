@@ -6,7 +6,7 @@ High-Load Medical System — Architecture Case Study
 
 A comprehensive, production-oriented internal server system designed for multi-hospital environments. The platform integrates patient records, pharmacy inventory, accounting, laboratory workflows, staff management, and audit logging into a unified, secure, and horizontally scalable architecture.
 
-The system is built as a set of containerised "macroservices" (monoliths) and dedicated domain databases, orchestrated via Kubernetes. It employs a strict separation of concerns:
+The system is built as a set of containerised "macroservices", microservices and dedicated domain databases, orchestrated via Kubernetes. It employs a strict separation of concerns:
 
     Go-based Gateway: Handles security, TLS termination, request throttling, RBAC, and in-memory caching.
 
@@ -21,7 +21,7 @@ The system is built as a set of containerised "macroservices" (monoliths) and de
 The system runs multiple separate PostgreSQL instances, divided into two distinct groups to balance scalability and ACID compliance:
 Group	Count	Purpose	Routing Strategy
 Patient Shards	4-16	Patient-centric data: hospitalizations, medical records, prescriptions, lab orders, treatment history.	Deterministic hashing of patient identifiers. Ensures all records for a single patient reside on the same shard for strict ACID compliance per patient.
-Dedicated Domains	7	Independent modules: drugs/inventory, accounting/invoicing, staff/RBAC, audit & system logs.	Static routing. Each domain knows its target database. No sharding logic; designed for stable data sets that do not scale linearly with patient count.
+Dedicated Domains	7	Independent modules: drugs/inventory, accounting/invoicing, staff/RBAC, audit, system logs, etc.	Static routing. Each domain knows its target database. No sharding logic; designed for stable data sets that do not scale linearly with patient count.
 
 This hybrid approach provides linear write scalability for patient data (the primary bottleneck) while keeping financial and inventory logic safely isolated in their own ACID-compliant silos without the overhead of distributed transactions.
 # Key Features & Engineering Decisions
@@ -30,7 +30,7 @@ This hybrid approach provides linear write scalability for patient data (the pri
 
     Secure by Design: JWT-based auth, TLS termination, strict RBAC, Argon2 password hashing, honeypots, rate limiting, and input sanitization.
 
-    Crypto-Shredding per Patient: Sensitive data is encrypted using AES standard. Per-patient AES keys allow for instant, provable right-to-erasure (RODO) without database performance penalties.
+    Crypto-Shredding per Patient/User: Sensitive data is encrypted using AES standard. Per-patient/user AES keys allow for instant, provable right-to-erasure (RODO) without database performance penalties.
 
     Asynchronous Processing: RabbitMQ reliably decouples the core API from heavy background tasks, ensuring responsiveness under load.
 
@@ -38,7 +38,7 @@ This hybrid approach provides linear write scalability for patient data (the pri
 
     gRPC over UDS: Replaced REST/TCP with gRPC over Unix Domain Sockets for internal service communication, eliminating network stack overhead and simplifying intra-cluster security (no TLS cert management).
 
-    WebAssembly (WASM) Integration: Custom Rust-to-WASM modules handle client-side serialization and validation of DataMatrix/EAN barcodes and medical code dictionaries (ICD-10/ICD-9). This allows offline, high-performance search in the browser without backend requests.
+    WebAssembly (WASM) Integration: Custom Rust-to-WASM modules handle client-side serialization and validation of DataMatrix/EAN barcodes and medical code dictionaries (ICD-10/ICD-9). The search engine implements fuzzy matching (Jaro-Winkler) to tolerate typos and misspellings, enabling doctors to find diagnoses and procedures instantly without backend requests, even offline.
 
     Stateless Compute Tier: All durable state is persisted in PostgreSQL or Redis (session tokens only). The core compute tier is stateless and ready for horizontal scaling.
 
@@ -46,7 +46,7 @@ This hybrid approach provides linear write scalability for patient data (the pri
 
     2FA for privileged roles.
 
-    Crypto-shredding and per-patient AES keys.
+    Crypto-shredding and per-patient/user AES keys.
 
     HMAC + pepper for hashing sensitive national IDs (PESEL).
 
@@ -62,7 +62,7 @@ This hybrid approach provides linear write scalability for patient data (the pri
 
     Testing: Unit tests, integration tests (testcontainers), and E2E sharding tests.
 
-🛠 Technology Stack & Rationale
+# Technology Stack & Rationale
 Component	Technology
 Frontend Gateway	Go (net/http, custom routing, middleware)
 Core Backend API	Rust (Axum, Tokio, Serde, Tonic)
@@ -83,7 +83,7 @@ Why these languages?
 
 # Project Statistics
 
-    ~134,000 lines of code (mixed languages).
+    ~134,000 lines of code (mixed languages). (state for 14/11/2026)
 
     Core Backend: ~45,000 lines of Rust.
 
@@ -101,4 +101,4 @@ Why these languages?
 
     CI/CD: CI with unit, integration, and E2E tests. Automated builds and rolling updates via K8s manifests.
 
-Built for reliability, security, and scale. Designed with healthcare workflows in mind.
+Built for reliability, security, and scale. Designed with healthcare workflows and end-user easy experience in mind.
