@@ -14,11 +14,11 @@ The system is built as a set of containerised "macroservices" (monoliths) and de
 
     Dedicated Monoliths: Accounting and laboratory logic are separated into lightweight, on-demand services to optimize resource usage, as they do not require 24/7 uptime.
 
-🏗 Architecture Overview
+# Architecture Overview
 
 (Insert your SVG/PNG architecture diagram here)
 ![Architecture Diagram](assets/schema.svg)
-🗄 Database Strategy (Hybrid Sharding + Domain Isolation)
+# Database Strategy (Hybrid Sharding + Domain Isolation)
 
 The system runs multiple separate PostgreSQL instances, divided into two distinct groups to balance scalability and ACID compliance:
 Group	Count	Purpose	Routing Strategy
