@@ -15,8 +15,6 @@ The system is built as a set of containerised "macroservices" (monoliths) and de
     Dedicated Monoliths: Accounting and laboratory logic are separated into lightweight, on-demand services to optimize resource usage, as they do not require 24/7 uptime.
 
 # Architecture Overview
-
-(Insert your SVG/PNG architecture diagram here)
 ![schemat_projektu](schemat.svg)
 # Database Strategy (Hybrid Sharding + Domain Isolation)
 
