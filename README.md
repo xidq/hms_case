@@ -101,4 +101,4 @@ Why these languages?
 
     CI/CD: CI with unit, integration, and E2E tests. Automated builds and rolling updates via K8s manifests.
 
-Built for reliability, security, and scale. Designed with healthcare workflows and end-user easy experience in mind.
+Built for reliability, security, and scale. Designed with healthcare workflows and low-friction end-user experience in mind.
