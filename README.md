@@ -83,7 +83,7 @@ Why these languages?
 
 # Project Statistics
 
-    ~134,000 lines of code (mixed languages). (state for 14/11/2026)
+    ~216,000 lines of code (mixed languages). (state for 16/11/2026)
 
     Core Backend: ~45,000 lines of Rust.
 
